@@ -1,26 +1,26 @@
 [
+  
+      {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Css", "JavaScript"],
+      "demo": "https://myportfolioskillset.netlify.app/",
+      "source": "https://github.com/saichandra-Padiri/Portfolio"
+    },
     {
-      "title": "Whats app UI",
+      "title": "Employee Management",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an API.",
+      "skills": ["React", "Java", "Spring Boot", "H2-Database"],
+      "demo": "https://reactui--employeesmangement.netlify.app/",
+      "source": "https://github.com/saichandra-Padiri/EmployeeManagmentSystem"
+    },
+    {
+      "title": "Messenger Android App",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["XML", "Android Studio", "JAVA"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Employee details",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an API.",
-      "skills": ["SpringBoot", "Microservices", "Hibernate", "Java"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
   ]

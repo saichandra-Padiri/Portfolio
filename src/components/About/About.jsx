@@ -20,7 +20,7 @@ export const About=()=>{
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
                     <p>
-                        I'm a frontend developer with experience in building responsive and APIS
+                        I'm a BackEnd developer with experience in building responsive and APIS
                     </p>
                 </div>
             </li>

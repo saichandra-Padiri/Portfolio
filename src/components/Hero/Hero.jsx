@@ -6,7 +6,7 @@ export const Hero=()=>{
         
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Sai Chandra</h1>
-            <p className={styles.description}>I'm a full-stack developer with 2years of experience using React and NodeJs.Reach out if you'd like to learn more!</p>
+            <p className={styles.description}>Accumulated two years of hands-on experience as a java web application developer,contributing to the design, development, and maintenance of robust and scalable web solutions</p>
             <a href="mailto:padirisaichandra6@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
